@@ -1,0 +1,3 @@
+SMiLER - Samsung MultiLingual Entity and Relation Extraction dataset and the source code will be available here.
+
+The license for both SMiLER - Samsung MultiLingual Entity and Relation Extraction dataset and the source code is CC-BY-SA-3.0.
